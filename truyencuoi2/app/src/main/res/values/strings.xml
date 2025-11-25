@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Truyện cười 😆</string>
+
+    <string name="topic_girl">Con gái</string>
+    <string name="topic_couple">Vợ chồng</string>
+    <string name="topic_student">Học sinh</string>
+    <string name="topic_teacher">Thầy trò</string>
+
+
+    <string name="btn_vietnamese">🇻🇳 Tiếng Việt</string>
+    <string name="btn_english">🇬🇧 English</string>
+
+
+    <string name="title_main">Truyện cười 😆</string>
+
+
+    <string name="back">Quay lại</string>
+    <string name="story_study_title">Việc học</string>
+    <string name="story_study_content">
+    Lúc bé, ngồi học là chuyện lạ. Lớn lên mới biết, chuyện lạ là đi học.
+    Lúc bé, tưởng đến trường để gặp bạn. Lớn lên mới biết, đến trường để gặp bài.
+    Lúc bé, tưởng ngồi học là hay. Lớn lên mới biết, ngồi học là ngủ.
+    Lúc bé, tưởng điểm 10 là giỏi. Lớn lên mới biết, điểm 10 là ảo giác.
+    Lúc bé, tưởng càng học càng giỏi. Lớn lên mới biết, càng học càng ngu 😅
+</string>
+
+</resources>

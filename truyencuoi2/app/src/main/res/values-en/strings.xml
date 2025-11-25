@@ -1,0 +1,29 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Funny Stories 😆</string>
+
+    <!-- Topics -->
+    <string name="topic_girl">Girls</string>
+    <string name="topic_couple">Couple</string>
+    <string name="topic_student">Students</string>
+    <string name="topic_teacher">Teacher  Student</string>
+
+    <!-- Language buttons -->
+    <string name="btn_vietnamese">🇻🇳 Vietnamese</string>
+    <string name="btn_english">🇬🇧 English</string>
+
+    <!-- Title -->
+    <string name="title_main">Funny Stories 😆</string>
+
+    <!-- Back -->
+    <string name="back">Back</string>
+    <string name="story_study_title">Studying</string>
+    <string name="story_study_content">
+    As a child, studying felt strange. Growing up, I realized the strange part was going to school.
+    As a kid, I thought school was for meeting friends. Growing up, I found out it’s for meeting homework.
+    As a kid, I thought studying was cool. Growing up, I found out studying means sleeping.
+    As a kid, I thought a 10 meant I was smart. Growing up, I found out a 10 is just an illusion.
+    As a kid, I thought the more I studied, the smarter I’d get. Growing up, I found out the more I study, the more I forget 😅
+</string>
+
+</resources>
